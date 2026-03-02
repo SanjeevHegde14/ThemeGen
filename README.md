@@ -30,3 +30,5 @@ npm run preview
 - Harmony mode selector (`Complementary`, `Triadic`, `Tetradic`, `Monochromatic`)
 - Base hue slider
 - Auto-generated swatches with hex values
+
+Development in Progress
